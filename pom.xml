@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.wisely</groupId>
-	<artifactId>ch7_4</artifactId>
+	<groupId>spbt_0704_test_ssl-gid</groupId>
+	<artifactId>spbt_0704_test_ssl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ch7_4</name>
+	<name>spbt_0704_test_ssl</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
